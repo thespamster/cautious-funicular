@@ -1,5 +1,5 @@
 # cautious-funicular
-cod einstitute repo
+code institute repo
 
 
 ### this is a new heading
